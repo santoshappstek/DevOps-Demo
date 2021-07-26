@@ -1,11 +1,11 @@
 <%
-out.println("<p><span style=\"color: #0000ff;\">Hello .. <strong>This is&nbsp; I'm Santosh working as intern at AppsTek corp</strong></span></p>");
+out.println("<p><span style=\"color: #0000ff;\">Hello .. <strong>This is&nbsp; I'm Santosh </strong></span></p>");
 out.println("<p><span style=\"color: #339966;\">I attended DevOps Corporate Training course from Appstek, below is my key takeaway from this course and my learning score as follows :</span></p>");
 out.println("<p>&nbsp;</p>");
 out.println("<h4><span style=\"color: #000080;\">01. The basics of SDLC, Agile, DevOps concepts and comparison... <span style=\"color: #ff6600;\">Socre is 4 out of 5</span></span></h4>");
 out.println("<h4><span style=\"color: #000080;\">02. Source code Management -&gt; Git ... <span style=\"color: #ff6600;\">Score is 4.5 out of 5</span></span></h4>");
 out.println("<h4><span style=\"color: #000080;\">03. Introduction to CICD -&gt; Jenkins&nbsp; ... <span style=\"color: #ff6600;\">Score is 4 out of 5</span></span></h4>");
-out.println("<h4><span style=\"color: #000080;\">04. Build Management -&gt; Maven ... <span style=\"color: #ff6600;\">Score is X out of 5</span></span></h4>");
+out.println("<h4><span style=\"color: #000080;\">04. Build Management -&gt; Maven ... <span style=\"color: #ff6600;\">Score is 4 out of 5</span></span></h4>");
 out.println("<h4><span style=\"color: #000080;\">05.Mastering Configuration Management with Ansible and Ansible Tower... <span style=\"color: #ff6600;\">Scroe is 3.5 out of 5</span></span></h4>");
 out.println("<h4><span style=\"color: #000080;\">06.Containerisation With Docker ... <span style=\"color: #ff6600;\">Score is 3.5 out of 5</span></span></h4>");
 out.println("<h4><span style=\"color: #000080;\">07. Continuous Monitoring with Prometheus and Graphana... <span style=\"color: #ff6600;\">Score is 4 out of 5</span></span></h4>");
